@@ -7,6 +7,6 @@ title: Thembi, me and my 2 cats
 tagline:          Logbook, photos, thoughts about living on a boat with two cats
 description:      Logbook, photos, thoughts about living on a boat with two cats
 url: "https://thembi.me"
-baseurl:          /
+baseurl:          ""
 
 paginate:         5

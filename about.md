@@ -63,4 +63,4 @@ Trisail | 6.31 | 7.44 | 2.9 |  |
 Working Spinnaker | 14.31 |  | 7.29 |  | 104.61
 Limit Spinnaker | 14.31 |  | 6.56 |  | 96.15
 
-![Sigma 362]({{ site.baseurl }}public/sigma362.jpg)
+![Sigma 362]({{ site.baseurl }}/public/sigma362.jpg)
