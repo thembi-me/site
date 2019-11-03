@@ -10,9 +10,8 @@ tags:
 - sailing
 - boat
 - sail
-tumblr_url: https://thembi.me/post/151744337675/my-timer-my-alarm-when-i-go-sailing-sometimes
 ---
- ![](/files/tumblr_oetquhMcyH1tq106bo1_1280.jpg)  
+![My timer, my alarm](/files/tumblr_oetquhMcyH1tq106bo1_1280.jpg)
 
 My timer, my alarm. When I go sailing, sometimes alone, I need to wake up and I use this tomato, an old-style red kitchen cooking timer.
 

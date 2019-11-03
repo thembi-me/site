@@ -9,9 +9,8 @@ tags:
 - fisherman boats
 - sail
 - sailing
-tumblr_url: https://thembi.me/post/151831407414/regata-vela-al-terzo
 ---
- ![](/files/tumblr_oetrtywspT1tq106bo1_1280.jpg)  
+![Vela al terzo](/files/tumblr_oetrtywspT1tq106bo1_1280.jpg)
 
 Regata [Vela al terzo](https://it.wikipedia.org/wiki/Vela_al_terzo)
 

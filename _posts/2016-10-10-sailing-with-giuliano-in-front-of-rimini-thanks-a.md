@@ -9,9 +9,8 @@ tags:
 - boat
 - sailing
 - rimini
-tumblr_url: https://thembi.me/post/151605467247/sailing-with-giuliano-in-front-of-rimini-thanks-a
 ---
- ![](/files/tumblr_oets0rQt6a1tq106bo1_1280.jpg)  
+![Sailing with Giuliano in front of Rimini](/files/tumblr_oets0rQt6a1tq106bo1_1280.jpg)
 
 Sailing with Giuliano in front of Rimini. Thanks a lot to Ferruccio e Gianni!
 

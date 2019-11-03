@@ -3,7 +3,6 @@ layout: post
 title: Miciuli and Vili arrived!
 date: '2014-01-22T12:08:14+01:00'
 tags: []
-tumblr_url: https://thembi.me/post/74161114253/miciuli-and-vili-arrived
 ---
 All these photos are about the trip from Rome to Brighton. It was a great adventure! And I want to say thank you to Enrico, Rene’, Riccardo and Samuele.
 

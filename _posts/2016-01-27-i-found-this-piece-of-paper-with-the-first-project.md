@@ -6,9 +6,8 @@ tags:
 - vimini
 - project
 - draw
-tumblr_url: https://thembi.me/post/138158173427/i-found-this-piece-of-paper-with-the-first-project
 ---
- ![](/files/tumblr_npsrckLOG61tq106bo1_1280.jpg)  
+![The vimini project](/files/tumblr_npsrckLOG61tq106bo1_1280.jpg)
 
 I found this piece of paper with the first project of a vimini for Thembi. I built it when I was in Lisbon, but it was nice to share how that project has been realized.
 

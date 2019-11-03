@@ -8,9 +8,8 @@ tags:
 - harbour
 - boat
 - cleaning
-tumblr_url: https://thembi.me/post/137811307780/laundry-day-cleaning-cleaning-and-cleaning
 ---
- ![](/files/tumblr_o1cvwueHnq1tq106bo1_1280.jpg)  
+![Laundry day](/files/tumblr_o1cvwueHnq1tq106bo1_1280.jpg)
 
 Laundry day: cleaning cleaning and cleaning.
 

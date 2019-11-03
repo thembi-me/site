@@ -12,8 +12,7 @@ tags:
 - horizon
 - island
 - malvasia
-tumblr_url: https://thembi.me/post/150395827366/anchored-at-filicudi-island-on-the-horizon
 ---
- ![](/files/tumblr_od6ys1N7TL1tq106bo1_1280.jpg)  
+![Anchoring at Filicudi](/files/tumblr_od6ys1N7TL1tq106bo1_1280.jpg)
 
 Anchoring at Filicudi Island. On the horizon, Alicudi Island. We just opened a bottle of Malvasia wine.

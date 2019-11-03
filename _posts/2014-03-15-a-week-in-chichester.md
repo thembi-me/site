@@ -3,7 +3,6 @@ layout: post
 title: A week in Chichester
 date: '2014-03-15T11:26:00+01:00'
 tags: []
-tumblr_url: https://thembi.me/post/79641475768/a-week-in-chichester
 ---
 I decided to visit [Chichester](https://en.wikipedia.org/wiki/Chichester) for a weekend (7-9 March). But then I stayed here the whole week. Here is beautiful! Look at these photos!
 

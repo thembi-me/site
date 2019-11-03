@@ -10,9 +10,8 @@ tags:
 - water
 - transparent
 - blue
-tumblr_url: https://thembi.me/post/150160969438/bosa-sardinia-this-was-probably-10-meters-of
 ---
- ![](/files/tumblr_od6xtjEKSH1tq106bo1_1280.jpg)  
+![Bosa, Sardinia](/files/tumblr_od6xtjEKSH1tq106bo1_1280.jpg)
 
 Bosa, Sardinia, this was probably 10 meters of transparent water: we can see all! Beautiful sea.
 

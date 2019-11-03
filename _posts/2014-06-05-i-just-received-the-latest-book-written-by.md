@@ -1,11 +1,11 @@
 ---
 layout: post
-title: i just received the latest book written by ippolita
+title: I just received the latest book written by ippolita
 date: '2014-06-05T11:50:00+02:00'
 tags: []
-tumblr_url: https://thembi.me/post/87881578170/i-just-received-the-latest-book-written-by
 ---
- ![](/files/tumblr_n6owoc24Pk1tq106bo1_r1_1280.jpg)  
+![ippolita](/files/tumblr_n6owoc24Pk1tq106bo1_r1_1280.jpg)
+
 
 I just received the latest book written by [ippolita](http://www.ippolita.net)! Bravi!!
 

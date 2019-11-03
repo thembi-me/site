@@ -10,9 +10,8 @@ tags:
 - wave
 - atlantic
 - cliff
-tumblr_url: https://thembi.me/post/138350006571/big-waves-in-rabat
 ---
- ![](/files/tumblr_o1ictgs6El1tq106bo1_1280.jpg)  
+![Big waves in Rabat](/files/tumblr_o1ictgs6El1tq106bo1_1280.jpg)
 
 Big waves in Rabat.
 

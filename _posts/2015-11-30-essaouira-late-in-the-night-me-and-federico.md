@@ -13,17 +13,16 @@ tags:
 - colorful
 - boat
 - fishing boats
-tumblr_url: https://thembi.me/post/134260100865/essaouira-late-in-the-night-me-and-federico
 ---
- ![](/files/tumblr_nymigkShxo1tq106bo3_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo2_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo4_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo6_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo1_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo5_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo7_1280.jpg)  
- ![](/files/tumblr_nymigkShxo1tq106bo8_1280.jpg)  
-  
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo3_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo2_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo4_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo6_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo1_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo5_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo7_1280.jpg)
+![Essaouira](/files/tumblr_nymigkShxo1tq106bo8_1280.jpg)
+
 
 [Essaouira](https://en.wikipedia.org/wiki/Essaouira)!! Late in the night Me and Federico arrived in this small and nice harbour of fishermen.
 

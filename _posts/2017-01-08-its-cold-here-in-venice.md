@@ -12,9 +12,8 @@ tags:
 - freeze
 - winter
 - boat
-tumblr_url: https://thembi.me/post/155570857436/its-cold-here-in-venice
 ---
- ![](/files/tumblr_ojgizw4psf1tq106bo1_1280.jpg)  
+![Cold Venice](/files/tumblr_ojgizw4psf1tq106bo1_1280.jpg)
 
 It’s cold here in Venice.
 

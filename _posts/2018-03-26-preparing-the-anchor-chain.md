@@ -8,9 +8,8 @@ tags:
 - boat
 - orange
 - color
-tumblr_url: https://thembi.me/post/172269242948/preparing-the-anchor-chain
 ---
- ![](/files/tumblr_p65ikyu97k1tq106bo1_1280.jpg)  
+![Preparing the anchor chain](/files/tumblr_p65ikyu97k1tq106bo1_1280.jpg)
 
 Preparing the anchor chain
 

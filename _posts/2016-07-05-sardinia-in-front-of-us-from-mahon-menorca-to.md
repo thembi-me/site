@@ -15,6 +15,5 @@ tags:
 - blue
 - cost
 - panorama
-tumblr_url: https://thembi.me/post/146956219255/sardinia-in-front-of-us-from-mahon-menorca-to
 ---
- ![](/files/tumblr_o9uvvlkmp91tq106bo1_1280.jpg)  
+![Sardinia in front of us from Mahon, Menorca, to Alghero](/files/tumblr_o9uvvlkmp91tq106bo1_1280.jpg)

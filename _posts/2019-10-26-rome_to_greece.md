@@ -3,8 +3,8 @@ layout: post
 title: Rome to Greece
 date: 2019-07-06T16:41:13.000Z
 ---
- ![](/files/2019-10-26-rome_to_greece_0.jpg)
- ![](/files/2019-10-26-rome_to_greece_1.jpg)
+![Rome to Greece](/files/2019-10-26-rome_to_greece_0.jpg)
+![Rome to Greece](/files/2019-10-26-rome_to_greece_1.jpg)
 
 
 Here, a couple of pictures from Delphi.

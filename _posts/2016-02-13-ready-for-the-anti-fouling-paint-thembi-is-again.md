@@ -9,9 +9,8 @@ tags:
 - marina smir
 - boat
 - boatyard
-tumblr_url: https://thembi.me/post/139238234988/ready-for-the-anti-fouling-paint-thembi-is-again
 ---
- ![](/files/tumblr_o2fuz0qjWc1tq106bo1_1280.jpg)  
+![Anti-Fouling](/files/tumblr_o2fuz0qjWc1tq106bo1_1280.jpg)
 
 Ready for the Anti-fouling paint. Thembi is again out of the water.
 

@@ -6,9 +6,8 @@ tags:
 - foresail
 - sail
 - sailing
-tumblr_url: https://thembi.me/post/145056937366/trinchetta-or-foresail-in-english-another-new
 ---
- ![](/files/tumblr_o7l4t3sBxm1tq106bo1_1280.jpg)  
+![Trinchetta or Foresail](/files/tumblr_o7l4t3sBxm1tq106bo1_1280.jpg)
 
 Trinchetta!! or Foresail in English. Another new sail for Thembi.
 

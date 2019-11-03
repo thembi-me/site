@@ -9,9 +9,8 @@ tags:
 - boat
 - sailing
 - marina
-tumblr_url: https://thembi.me/post/146989015189/thembi-at-alghero-sardinia-such-a-beautiful
 ---
- ![](/files/tumblr_o9uw3dJg6e1tq106bo1_1280.jpg)  
+![Thembi at Alghero](/files/tumblr_o9uw3dJg6e1tq106bo1_1280.jpg)
 
 Thembi at Alghero, Sardinia! Such a beautiful boat!
 

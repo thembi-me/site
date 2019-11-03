@@ -11,9 +11,8 @@ tags:
 - marina
 - uk
 - fisheye
-tumblr_url: https://thembi.me/post/124670646145/more-than-1-year-ago-a-picture-of-thembi-at-the
 ---
- ![](/files/tumblr_nruiqoqfnx1tq106bo1_1280.jpg)  
+![An old photo](/files/tumblr_nruiqoqfnx1tq106bo1_1280.jpg)
 
 More than 1 year ago, a picture of Thembi at the marina lock gate of [Eastbourne](https://en.wikipedia.org/wiki/Eastbourne "Eastbourne").
 

@@ -8,9 +8,8 @@ tags:
 - laguna
 - boat
 - canals
-tumblr_url: https://thembi.me/post/151698811319/chioggia-beautiful-city
 ---
- ![](/files/tumblr_oetqo6O0gQ1tq106bo1_1280.jpg)  
+![Chioggia](/files/tumblr_oetqo6O0gQ1tq106bo1_1280.jpg)
 
 Chioggia! Beautiful city!
 

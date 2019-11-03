@@ -10,11 +10,12 @@ tags:
 - sailing
 - hercules
 - gibraltar
-tumblr_url: https://thembi.me/post/141785828690/ceuta-for-this-long-weekend-of-easter-coming-here
 ---
- ![](/files/tumblr_o4pjoiI4tX1tq106bo1_1280.jpg)  
-Pillars of Hercules ![](/files/tumblr_o4pjoiI4tX1tq106bo2_1280.jpg)  
-Ceuta from Monte Hacho  
+![Pillars of Hercules](/files/tumblr_o4pjoiI4tX1tq106bo1_1280.jpg)
+Pillars of Hercules
+
+![Ceuta from Monte Hacho](/files/tumblr_o4pjoiI4tX1tq106bo2_1280.jpg)
+Ceuta from Monte Hacho
 
 Ceuta for this long weekend of Easter. Coming here I had a lot of wind, a lot. 30-35 knots but it was a quick trip: 14 miles from Gibraltar. A beautiful weekend visiting this little city and walking around Monte Hacho.
 
