@@ -1,9 +1,9 @@
 <div class="sidebar h-card">
   <div class="container sidebar-sticky">
-    <img class="u-logo" src="{{ site.baseurl }}/public/logo.png" alt="Thembi.me" />
+    <img class="u-logo" src="{{ '/public/logo.png' | relative_url }}" alt="Thembi.me" />
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}/" class="u-url">
+        <a href="{{ '/' | relative_url }}" class="u-url">
           {{ site.title }}
         </a>
       </h1>
@@ -12,7 +12,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with

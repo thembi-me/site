@@ -3,15 +3,15 @@ layout: page
 title: Where we've been
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/public/where/openlayers/ol.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/public/where/ol3-popup.css" type="text/css">
+<link rel="stylesheet" href="{{ '/public/where/openlayers/ol.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/public/where/ol3-popup.css' | relative_url }}" type="text/css">
 
 <div id="map" class="map" style="height: 100%; width: 100%; min-height: 600px;"></div>
-<script src="{{ site.baseurl }}/public/where/openlayers/ol.js"></script>
-<script src="{{ site.baseurl }}/public/where/jquery.min.js" type="text/javascript"></script>
-<script src="{{ site.baseurl }}/public/where/bootstrap.min.js" type="text/javascript"></script>
-<script src="{{ site.baseurl }}/public/where/ol3-popup.js" type="text/javascript"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/public/data.js"></script>
+<script src="{{ '/public/where/openlayers/ol.js' | relative_url }}"></script>
+<script src="{{ '/public/where/jquery.min.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/public/where/bootstrap.min.js' | relative_url }}" type="text/javascript"></script>
+<script src="{{ '/public/where/ol3-popup.js' | relative_url }}" type="text/javascript"></script>
+<script type="text/javascript" src="{{ '/public/data.js' | relative_url }}"></script>
 
 <script type="text/javascript">
 function createMap() {
@@ -104,7 +104,7 @@ function createMarkerLayer() {
         anchorXUnits: 'fraction',
         anchorYUnits: 'pixels',
         opacity: 0.75,
-        src: '{{ site.baseurl }}/public/where/marker.png'
+        src: '{{ 'public/where/marker.png' | relative_url }}'
       }))
     });
 
