@@ -143,6 +143,14 @@ var data = {
         { lat: 38.430376, lng: 22.420905, place: "Itea", country: "Greece" },
         { lat: 38.359699, lng: 21.419088, place: "Missolonghi", country: "Greece" },
         { lat: 41.135705, lng: 16.847829, place: "Bari", country: "Italy" },
+        { lat: 39.796211, lng: 18.360083, place: "Leuca", country: "Italy" },
+        { lat: 39.369109, lng: 17.134919, place: "Cirò Marina", country: "Italy" },
+        { lat: 39.080042, lng: 17.137630, place: "Crotone", country: "Italy" },
+        { lat: 37.489023, lng: 15.095370, place: "Catania", country: "Italy" },
+        { lat: 38.680512, lng: 15.904216, place: "Tropea", country: "Italy" },
+        { lat: 40.177019, lng: 15.026084, place: "Acciaroli", country: "Italy" },
+        { lat: 40.748184, lng: 14.005347, place: "Procida", country: "Italy" },
+        { lat: 41.748612, lng: 12.261927, place: "Fiumicino", country: "Italy" },
       ]
     }
   ]
