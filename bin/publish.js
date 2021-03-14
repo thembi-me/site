@@ -190,8 +190,13 @@ async function processImage(tmpdir, filesdir, image, title, id) {
         process.exit(1);
       }
 
-      const b = features.properties["exif:datetimeoriginal"].split(/\D/);
-      data.date = new Date(b[0],b[1]-1,b[2],b[3],b[4],b[5]);
+      try {
+        const b = features.properties["exif:datetimeoriginal"].split(/\D/);
+        data.date = new Date(b[0],b[1]-1,b[2],b[3],b[4],b[5]);
+      } catch (e) {
+        data.date = new Date();
+      }
+
       data.format = features.format;
       resolve();
     });
