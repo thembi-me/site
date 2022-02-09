@@ -1,6 +1,6 @@
 var data = {
-  center: { lat: 39.5218894, lng: 2.3808531 },
-  zoom: 4,
+  center: { lat: 39.5218894, lng: -30.3808531 },
+  zoom: 3,
   destinations: [
     { points: [
         { lat: 41.750953, lng: 12.271959, place: "Ostia", country: "Italy" },
@@ -151,6 +151,22 @@ var data = {
         { lat: 40.177019, lng: 15.026084, place: "Acciaroli", country: "Italy" },
         { lat: 40.748184, lng: 14.005347, place: "Procida", country: "Italy" },
         { lat: 41.748612, lng: 12.261927, place: "Fiumicino", country: "Italy" },
+        { lat: 41.214102, lng: 9.4310080, place: "Maddalena", country: "Italy" },
+        { lat: 41.748612, lng: 12.261927, place: "Fiumicino", country: "Italy" },
+        { lat: 42.402512, lng: 11.209902, place: "Cala Galera", country: "Italy" },
+        { lat: 43.949592, lng: 8.1569130, place: "Andora", country: "Italy" },
+        { lat: 43.783087, lng: 7.5174266, place: "Menton", country: "France" },
+        { lat: 43.709137, lng: 7.3380570, place: "Beaulieu-sur-Mer", country: "France" },
+        { lat: 43.525660, lng: 6.9469933, place: "Mandelieu-la-Napoule", country: "France" },
+        { lat: 43.293941, lng: 5.3687002, place: "Marseille", country: "France" },
+        { lat: 39.839977, lng: 3.1346924, place: "Alcúdia", country: "Spain" },
+        { lat: 38.983142, lng: 1.5392708, place: "Santa Eulalia del Río", country: "Spain" },
+        { lat: 38.589396, lng: -0.055083, place: "Altea", country: "Spain" },
+        { lat: 38.335891, lng: -0.483682, place: "Alicante", country: "Spain" },
+        { lat: 36.157453, lng: -5.356682, place: "La Línea de la Concepción", country: "Spain" },
+        { lat: 28.126137, lng: -15.425713, place: "Las Palmas (Gran Canaria)", country: "Spain" },
+        { lat: 14.071405, lng: -60.9520823, place: "Rodney Bay (Sainte-Lucie)", country: "Sainte-Lucie" },
+        { lat: 14.462605, lng: -60.8729137, place: "Le Marin (Martinique)", country: "France" },
       ]
     }
   ]
